@@ -1,15 +1,13 @@
 # MarzTemplat<p align="center">
-  <a href="https://github.com/primeZdev/MarzTemplat" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/primeZdev/MarzTemplat/main/PreviewTemplate.png" title="Marzneshin-Sub-info"/>
-  </a>
+<img src="screenshot.png" alt="MarzTemplat">
 </p>
 <p align="center">
   <a href="https://t.me/primez_dev">
     <img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram" alt="Telegram">
   </a>
-<h1 align="center"/>این قالب برای مرزنشین طراحی شده!</h1>
+<p align="center"/><b>این قالب برای مرزنشین طراحی شده!</b></p>
 
-## مراحل نصب
+### مراحل نصب
 1. دانلود تمپلیت
 ```sh
 sudo wget -N -P /var/lib/marzneshin/templates/subscription/  https://raw.githubusercontent.com/primeZdev/MarzTemplat/index.html
@@ -27,8 +25,8 @@ marzneshin restart
 ```
 
 
-## شخصی سازی ها
-### اول فایل تمپلیت رو باز کنید
+### شخصی سازی ها
+##### ... اول فایل تمپلیت رو باز کنید
 ```
 nano /var/lib/marzneshin/templates/subscription/index.html
 ```
@@ -51,6 +49,3 @@ https://wa.me/YourWhatsApp
 <br>
 
 > **فراموش نکنید که با دادن استار (⭐) از این پروژه حمایت کنید!**  <br>
-
-
-[![Stargazers over time](https://starchart.cc/primeZdev/MarzTemplat.svg?variant=adaptive)](https://starchart.cc/primeZdev/MarzTemplat)
