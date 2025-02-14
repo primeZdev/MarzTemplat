@@ -12,7 +12,8 @@
 ## مراحل نصب
 1. دانلود تمپلیت
 ```sh
-sudo wget -N -P /var/lib/marzneshin/templates/subscription/  https://raw.githubusercontent.com/primeZdev/MarzTemplat/index.html
+sudo wget -N -P /var/lib/marzneshin/templates/subscription/ https://raw.githubusercontent.com/primeZdev/MarzTemplat/main/index.html
+
 ```
 
 2. با دستور زیر ادرس فایل دانلود شده رو به پنل بدید
