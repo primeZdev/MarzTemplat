@@ -1,6 +1,8 @@
-# MarzTemplat<p align="center">
-<img src="screenshot.png" alt="MarzTemplat">
+# MarzTemplat
+<p align="center">
+<img src="Screenshot.png" alt="MarzTemplat">
 </p>
+
 <p align="center">
   <a href="https://t.me/primez_dev">
     <img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram" alt="Telegram">
