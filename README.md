@@ -2,14 +2,14 @@
 <p align="center">
 <img src="Screenshot.png" alt="MarzTemplat">
 </p>
-
+<p align="center"/><b>این قالب برای مرزنشین طراحی شده!</b></p>
 <p align="center">
   <a href="https://t.me/primez_dev">
     <img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram" alt="Telegram">
   </a>
-<p align="center"/><b>این قالب برای مرزنشین طراحی شده!</b></p>
 
-### مراحل نصب
+
+## مراحل نصب
 1. دانلود تمپلیت
 ```sh
 sudo wget -N -P /var/lib/marzneshin/templates/subscription/  https://raw.githubusercontent.com/primeZdev/MarzTemplat/index.html
@@ -27,8 +27,8 @@ marzneshin restart
 ```
 
 
-### شخصی سازی ها
-##### ... اول فایل تمپلیت رو باز کنید
+## شخصی سازی ها
+##### اول فایل تمپلیت رو باز کنید
 ```
 nano /var/lib/marzneshin/templates/subscription/index.html
 ```
@@ -47,7 +47,6 @@ https://t.me/YourTelegram
 https://wa.me/YourWhatsApp
 ```
 ##
-<br>
 <br>
 
 > **فراموش نکنید که با دادن استار (⭐) از این پروژه حمایت کنید!**  <br>
